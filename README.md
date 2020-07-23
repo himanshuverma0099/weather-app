@@ -1,5 +1,6 @@
 # weather-app
 A web based app to display weather stats of current day of a city.
+
 Instructions:
 1. Download all the files of the project to your local storage.
 2. Make sure that you have node installed in your pc.
